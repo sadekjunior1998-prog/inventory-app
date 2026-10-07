@@ -1,0 +1,6 @@
+SUCCESS = "success"
+NOT_FOUND = "not_found"
+ALREADY_EXISTS = "already_exists"
+INSUFFICIENT_STOCK = "insufficient_stock"
+DATABASE_ERROR = "database_error"
+INVALID_INPUT = "invalid_input"
